@@ -46,7 +46,7 @@ To align the pretrained model using the SmolTalk corpus:
 bash sft_full.sh
 ```
 
-## 📊 Results
+## 📊 Data
 
 - **Pretraining:** Trained on ~1B tokens of [FineWeb-Edu](https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu).
 - **Alignment:** Fine-tuned on [SmolTalk](https://huggingface.co/datasets/HuggingFaceTB/smoltalk) to enable coherent instruction following.
