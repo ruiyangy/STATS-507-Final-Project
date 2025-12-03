@@ -1,6 +1,6 @@
 # From Pretraining to Alignment: A Modern Small Language Model
 
-This project implements a modern, decoder-only Transformer language model from scratch, extending the [nanoGPT](https://github.com/karpathy/nanoGPT) framework. It explores the full lifecycle of Large Language Model (LLM) development, from pretraining on educational data to alignment via Supervised Fine-Tuning (SFT).
+This project implements a modern, decoder-only Transformer language model by extending the [nanoGPT](https://github.com/karpathy/nanoGPT) framework. It explores the full lifecycle of Large Language Model (LLM) development, from pretraining on educational data to alignment via Supervised Fine-Tuning (SFT).
 
 ## 🚀 Key Features
 
